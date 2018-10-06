@@ -1,4 +1,5 @@
-console.log('Name: Kyle Phillips');
+let name = 'Kyle Phillips';
+console.log(name.toUpperCase());
 console.log('Career: Healthcare/Mental Health');
 console.log('Description: Passionate about learning and focused on growth and development. ');
 console.log('Interests: Videogames, Front End Development');
@@ -6,6 +7,8 @@ console.log('My Previous Experience: Mental Health Therapy Aide From 07/2016 - 0
 console.log ('Van Wagner Sports & Entertainment. East Rutherford NJ Brand AmbassadorFrom 09/ 2013 - 2015.Positively reinforce consumer base for brand participation. Establish relationship between families and brand. Overall support of brand identity');
 console.log('My Skills: Problem Solving, Interpersonal Skills',' BAM: Mediocre CSS');
 
+
 function displayPosition (name, title, description)   {
     console.log(name, title, description);
 }
+
